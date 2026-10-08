@@ -1,4 +1,4 @@
-# 🛡️ PyPortScanner-CLI
+# 🛡️ PyPortScanner
 
 Um scanner de portas TCP multithreaded de alta performance e capturador de banners escrito em Python, com saída no terminal em tempo real e relatórios em HTML5/JSON.
 
