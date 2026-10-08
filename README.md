@@ -6,7 +6,7 @@ Um scanner de portas TCP de alta performance e capturador de banners escrito em 
 
 ## 📌 Funcionalidades
 
-- **Varredura Multithreaded:** Execução de conexões em paralelo utilizando `ThreadPoolExecutor`.
+- **Varredura:** Execução de conexões em paralelo utilizando `ThreadPoolExecutor`.
 - **Alvos Flexíveis:** Aceita endereços IPv4 únicos ou blocos CIDR (ex: `192.168.1.0/24`).
 - **Intervalos de Portas Personalizados:** Suporta listas (`22,80,443`), intervalos (`1-1024`) ou combinações.
 - **Captura de Banners de Serviços:** Identifica assinaturas em portas abertas (HTTP, SSH, FTP, etc.).
